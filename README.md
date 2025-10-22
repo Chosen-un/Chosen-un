@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     loading="lazy" 
-    src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&size=35&center=true&vCenter=true&width=600&height=50&duration=4000&lines=>+Hey+There!+👋;+>+I'm+Prince+Singh!;+>+Welcome+To+My+GitHub+Profile!;" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=>+Hey+There!+👋;+>+I'm+Prince+Singh!;+>+Welcome+To+My+GitHub+Profile!;" 
     alt="introduction" 
   />
 </div>
@@ -98,6 +98,10 @@
 
 <br />
 
+<div align="center">
+  <img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,sql,pytorch,tensorflow,huggingface,keras,sklearn,openai,langchain" alt="languages-frameworks-tools" /><br />
+  <img loading="lazy" src="https://skillicons.dev/icons?i=react,nextjs,django,flask,html,css,git,docker,azure,aws,powerbi,tableau,matlab" alt="languages-frameworks-tools" />
+</div>
 <div align="center">
   <img loading="lazy" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,keras,sklearn,openai,langchain,java,javascript,sql" alt="languages-frameworks-tools" /><br />
   <img loading="lazy" src="https://skillicons.dev/icons?i=react,nextjs,django,flask,html,css,git,docker,azure,aws,powerbi,tableau,matlab" alt="languages-frameworks-tools" />
