@@ -108,13 +108,7 @@
 <br />
 
 <h2 align="center">
-  <img 
-    loading="lazy"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-    alt="High Voltage" 
-    width="20" 
-    height="20" 
-  /> 
+  
   &nbsp;
   Stats
   &nbsp;
