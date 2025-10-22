@@ -13,7 +13,7 @@
 <br />
 
 <h2 align="center">
-  <img loading="lazy" src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People with professions/Man Student Medium-Light Skin Tone.png" width="28" /> M.Sc. AI graduate passionate about building sophisticated AI-driven solutions <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People with professions/Technologist Light Skin Tone.png" width="28" />
+  <img loading="lazy" src="https:https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People with professions/Man Student Medium-Light Skin Tone.png" width="28" /> M.Sc. AI graduate passionate about building sophisticated AI-driven solutions <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People with professions/Technologist Light Skin Tone.png" width="28" />
 </h2>
 
 <br />
