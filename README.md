@@ -140,13 +140,6 @@
     src="https://github-readme-streak-stats-noushin.vercel.app/?user=Chosen-un&count_private=true&theme=react&background=ffffff00&dates=718CA1&stroke=718CA1&include_all_commits=true&hide_border=true" 
     alt="streak stats"
   />
-  
-  <img 
-    loading="lazy"
-    width="300" 
-    src="https://github-readme-stats-noushinpervez.vercel.app/api/top-langs/?username=Chosen-un&count_private=true&langs_count=16&layout=compact&theme=react&bg_color=ffffff00&text_color=718CA1&size_weight=0.5&count_weight=0.5&hide_border=true&include_all_commits=true" 
-    alt="most used languages" 
-  />
 
   <br />
 
