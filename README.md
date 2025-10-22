@@ -34,7 +34,7 @@
           I hold an <strong>M.Sc. in Artificial Intelligence in Biomedicine and Healthcare</strong> from <a href="https://www.ucl.ac.uk/" target="_blank" referrerPolicy="no-referrer">University College London (UCL)</a>.
         </p>
         <p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand-gestures/Brain.png" alt="Brain" width="16" height="16" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Brain.png" alt="Brain" width="16" height="16" />
           &nbsp;
           My focus is on <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and domain-specific AI for automation.
         </p>
