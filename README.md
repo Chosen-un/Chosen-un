@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img align="right" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="320" />
+  <img align="left" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="320" />
 
   <div align="left">
     <p>
@@ -36,7 +36,7 @@
     <p>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="16" height="16" />
       &nbsp;
-      My focus is on <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and AI for Healthcare.
+      My focus is on <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and domain-specific AI for automation.
     </p>
     <p>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="16" height="16" />
