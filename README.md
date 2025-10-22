@@ -76,32 +76,35 @@
 
 <br />
 
-<h2 align="center">
-  <img 
-    loading="lazy" 
-    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-    alt="Skills" 
-    width="20" 
-    height="20" 
-  />
-  &nbsp;
-  Languages-Frameworks-Tools 
-  &nbsp;
-  <img 
-    loading="lazy" 
-    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-    alt="Skills" 
-    width="20" 
-    height="20" 
-  />
-</h2>
-
-<br />
-
 <div align="center">
+  
+  <h2>
+    <img 
+      loading="lazy" 
+      src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
+      alt="Skills" 
+      width="20" 
+      height="20" 
+    />
+    &nbsp;
+    Languages-Frameworks-Tools 
+    &nbsp;
+    <img 
+      loading="lazy" 
+      src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
+      alt="Skills" 
+      width="20" 
+      height="20" 
+    />
+  </h2>
+
+  <br />
+  
   <img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,sql,pytorch,tensorflow,huggingface,keras,sklearn,openai,langchain" alt="languages-frameworks-tools" /><br />
   <img loading="lazy" src="https://skillicons.dev/icons?i=react,nextjs,django,flask,html,css,git,docker,azure,aws,powerbi,tableau,matlab" alt="languages-frameworks-tools" />
+    
 </div>
+
 <br />
 
 <h2 align="center">
