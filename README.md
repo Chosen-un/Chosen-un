@@ -108,7 +108,13 @@
 <br />
 
 <h2 align="center">
-  
+  <img 
+    loading="lazy"
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
+    alt="High Voltage" 
+    width="20" 
+    height="20" 
+  /> 
   &nbsp;
   Stats
   &nbsp;
@@ -122,12 +128,6 @@
 </h2>
 
 <div align="center">
-  <img 
-    loading="lazy"
-    width="390" 
-    src="https://github-readme-stats-noushinpervez.vercel.app/api?username=Chosen-un&include_all_commits=true&count_private=true&show_icons=true&theme=react&bg_color=ffffff00&text_color=718CA1&rank_icon=github&hide_border=true&hide=prs,issues" 
-    alt="stats" 
-  />
   <img 
     loading="lazy" 
     width="390" 
