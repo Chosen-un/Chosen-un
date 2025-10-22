@@ -104,8 +104,8 @@
 
   <br />
   
-<img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,sql,pytorch,tensorflow,sklearn,react,nodejs,nextjs,mongodb" alt="languages-frameworks-tools" /><br />
-  <img loading="lazy" src="https://skillicons.dev/icons?i=django,flask,html,css,tailwind,firebase,git,docker,azure,aws,matlab" alt="languages-frameworks-tools" />
+<img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,mysql,pytorch,tensorflow,sklearn,azure,aws,matlab" alt="languages-frameworks-tools" /><br />
+  <img loading="lazy" src="https://skillicons.dev/icons?i=django,flask,html,css,tailwind,firebase,git,docker,react,nodejs,nextjs,mongodb" alt="languages-frameworks-tools" />
   
 </div>
 
