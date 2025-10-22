@@ -18,54 +18,58 @@
 
 <br />
 
-<div align="center">
-  <img align="left" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="320" />
-
-  <div align="left">
-    <p>
-      <img 
-        loading="lazy" 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" 
-        alt="Graduation Cap" 
-        width="16" 
-        height="16" 
-      />
-      &nbsp;
-      I hold an <strong>M.Sc. in Artificial Intelligence in Biomedicine and Healthcare</strong> from <a href="https://www.ucl.ac.uk/" target="_blank" referrerPolicy="no-referrer">University College London (UCL)</a>.
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="16" height="16" />
-      &nbsp;
-      My focus is on <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and domain-specific AI for automation.
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="16" height="16" />
-      &nbsp;
-      I’m always learning and expanding my expertise in <strong>PyTorch</strong>, <strong>TensorFlow</strong>, and <strong>Generative AI</strong>.
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="16" height="16" />
-      &nbsp;
-      I’m open to collaborating on <strong>AI and data-driven projects</strong>.
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="16" height="16" />
-      &nbsp;
-      Feel free to ask me anything about my work!
-    </p>
-    <p>
-      <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" height="16" />
-      &nbsp;
-      You can find my projects on <a href="https://github.com/Chosen-un?tab=repositories" target="_blank" referrerPolicy="no-referrer">GitHub</a>.
-    </p>
-    <p>
-      <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="16" height="16" />
-      &nbsp;
-      Check out my <a href="https://princesingh.uk" target="_blank" referrerPolicy="no-referrer">Portfolio</a>.
-    </p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <div align="left">
+        <p>
+          <img 
+            loading="lazy" 
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" 
+            alt="Graduation Cap" 
+            width="16" 
+            height="16" 
+          />
+          &nbsp;
+          I hold an <strong>M.Sc. in Artificial Intelligence in Biomedicine and Healthcare</strong> from <a href="https://www.ucl.ac.uk/" target="_blank" referrerPolicy="no-referrer">University College London (UCL)</a>.
+        </p>
+        <p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="16" height="16" />
+          &nbsp;
+          My focus is on <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and AI for Healthcare.
+        </p>
+        <p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="16" height="16" />
+          &nbsp;
+          I’m always learning and expanding my expertise in <strong>PyTorch</strong>, <strong>TensorFlow</strong>, and <strong>Generative AI</strong>.
+        </p>
+        <p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="16" height="16" />
+          &nbsp;
+          I’m open to collaborating on <strong>AI and data-driven projects</strong>.
+        </p>
+        <p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="16" height="16" />
+          &nbsp;
+          Feel free to ask me anything about my work!
+        </p>
+        <p>
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" height="16" />
+          &nbsp;
+          You can find my projects on <a href="https://github.com/Chosen-un?tab=repositories" target="_blank" referrerPolicy="no-referrer">GitHub</a>.
+        </p>
+        <p>
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="16" height="16" />
+          &nbsp;
+          Check out my <a href="https://princesingh.uk" target="_blank" referrerPolicy="no-referrer">Portfolio</a>.
+        </p>
+      </div>
+    </td>
+    <td width="40%" valign="top">
+      <img align="right" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="320" />
+    </td>
+  </tr>
+</table>
 <br />
 
 <div align="center"> 
@@ -100,47 +104,9 @@
 
   <br />
   
-<img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,mysql,pytorch,tensorflow,sklearn,react,nodejs" alt="languages-frameworks-tools" /><br />
-  <img loading="lazy" src="https://skillicons.dev/icons?i=django,flask,html,css,git,docker,azure,aws,matlab" alt="languages-frameworks-tools" />
-  
-</div>
-
-<br />
-
-<h2 align="center">
-  <img 
-    loading="lazy"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-    alt="High Voltage" 
-    width="20" 
-    height="20" 
-  /> 
-  &nbsp;
-  Stats
-  &nbsp;
-  <img 
-    loading="lazy"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-    alt="High Voltage" 
-    width="20" 
-    height="20" 
-  />
-</h2>
-
-<div align="center">
-  <img 
-    loading="lazy" 
-    width="390" 
-    src="https://github-readme-streak-stats-noushin.vercel.app/?user=Chosen-un&count_private=true&theme=react&background=ffffff00&dates=718CA1&stroke=718CA1&include_all_commits=true&hide_border=true" 
-    alt="streak stats"
-  />
-
-  <br />
-
-  <p align="center">
-    <img loading="lazy" src="https://komarev.com/ghpvc/?username=Chosen-un&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <img loading="lazy" src="https://skillicons.dev/icons?i=python,java,javascript,mysql,pytorch,tensorflow,sklearn,react,nodejs" alt="languages-frameworks-tools" /><br />
+  <img loading="lazy" src="https.skillicons.dev/icons?i=django,flask,html,css,git,docker,azure,aws,matlab" alt="languages-frameworks-tools" />
+    
 </div>
 
 <br />
